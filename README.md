@@ -17,12 +17,13 @@ A command-line application written in Python to manage a simple to-do list. Task
 
 ## Setup
 
+## Setup
+
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/santoshkumar22march/CLI_Task_Manager.git
+    cd CLI_Task_Manager
     ```
-    (Replace `YOUR_USERNAME/YOUR_REPOSITORY_NAME` with your actual GitHub details)
 
 2.  **Run the script:** No external libraries are needed! You can run it directly.
     ```bash
